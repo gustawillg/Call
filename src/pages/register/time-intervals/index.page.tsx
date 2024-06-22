@@ -112,7 +112,7 @@ export default function TimeIntervals() {
 
   return (
     <>
-      <NextSeo title="Selecione sua disponibilidade | Ignite Call" noindex />
+      <NextSeo title="Selecione sua disponibilidade | Call" noindex />
 
       <Container>
         <Header>
